@@ -1,9 +1,15 @@
+<<<<<<< HEAD
+Kreativna poruka 
 Prvi primer
 aaaaasdas
 asdasd
 Kreativna poruka
+<<<<<<< HEAD
 aa
 vv
 bb
 cc
 aa
+ ad106d929651011f6ca5c700a18e2d602e62c84b
+ main
+
